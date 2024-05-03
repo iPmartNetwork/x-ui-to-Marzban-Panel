@@ -37,7 +37,7 @@
 #راهنمایی : فایل را در یک نرم افزار کد ادیتور باز کنید و مشخصات را به مشخصات پنل های خودتون تغییر داده و ذخیره کنید .
 
 ```python
-# Define Variables for Both Panels
+
 
 # X-Ui Panel
 
@@ -59,8 +59,7 @@ M_HTTPS = False  # Set to True to use HTTPS, False to use HTTP
 
 ## About
 
-This script is designed to simplify the transfer of user data from [X-Ui](https://github.com/MHSanaei/3x-ui) to [Marzban](https://github.com/Gozargah/Marzban)
- using the Marzban API. It securely logs into both panels, retrieves user data from X-Ui, and adds it to Marzban.
+این اسکریپت به منظور ساده سازی انتقال داده های کاربر از [X-Ui](https://github.com/MHSanaei/3x-ui) به [مرزبان] (https://github.com/Gozargah/Marzban) طراحی شده است. با استفاده از مرزبان API به طور ایمن وارد هر دو پنل می شود، اطلاعات کاربر را از X-Ui بازیابی می کند و به مرزبان اضافه می کند.
 
 ### Prerequisites
 Python 3.0+ with the requests library is required. The script is not compatible with Python 2.0.
