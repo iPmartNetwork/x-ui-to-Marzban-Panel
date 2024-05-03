@@ -77,10 +77,10 @@ Python 3.0+ with the requests library is required. The script is not compatible 
 ### Linux
 ```bash
 # Clone the Repository
-git clone https://github.com/ipmartnetwork/x-ui-to-Marzban-Pnale.git
+git clone https://github.com/ipmartnetwork/x-ui-to-Marzban-Panel.git
 
 # Change Directory
-cd X-Ui-to-Marzban
+cd x-ui-to-Marzban-Panel
 
 # Install pip (if not already installed)
 wget -qO- https://bootstrap.pypa.io/get-pip.py | python3 -
@@ -94,20 +94,20 @@ python3 main.py
 ### Windows
 ```bash
 # Clone the Repository
-git clone https://github.com/ipmartnetwork/x-ui-to-Marzban-Pnale.git
+git clone https://github.com/ipmartnetwork/x-ui-to-Marzban-Panel.git
 
 # Navigate to the Repository Directory
-cd X-Ui-to-Marzban
+cd x-ui-to-Marzban-Panel
 
-# Install Python (if not already installed)
-# Download and install Python from https://www.python.org/downloads/
+# Install Python3 (if not already installed)
+# Download and install Python3 from https://www.python.org/downloads/
 # Ensure you add Python to your system's PATH during installation
 
 # Install Dependencies
 pip install -r requirements.txt
 
 # Run the Script
-python main.py
+python3 main.py
 ```
 
 
