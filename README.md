@@ -43,6 +43,7 @@
 
 ```python
 
+# Define Variables for Both Panels
 
 # X-Ui Panel
 
