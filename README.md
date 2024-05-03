@@ -59,7 +59,7 @@ M_HTTPS = False  # Set to True to use HTTPS, False to use HTTP
 
 ## About
 
-این اسکریپت به منظور ساده سازی انتقال داده های کاربر از [X-Ui](https://github.com/MHSanaei/3x-ui) به [مرزبان] (https://github.com/Gozargah/Marzban) طراحی شده است. با استفاده از مرزبان API به طور ایمن وارد هر دو پنل می شود، اطلاعات کاربر را از X-Ui بازیابی می کند و به مرزبان اضافه می کند.
+این اسکریپت به منظور ساده سازی انتقال داده های کاربر از [X-Ui](https://github.com/MHSanaei/3x-ui) به مرزبان [(https://github.com/Gozargah/Marzban)] طراحی شده است. با استفاده از مرزبان API به طور ایمن وارد هر دو پنل می شود، اطلاعات کاربر را از X-Ui بازیابی می کند و به مرزبان اضافه می کند.
 
 ### Prerequisites
 Python 3.0+ with the requests library is required. The script is not compatible with Python 2.0.
