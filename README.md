@@ -22,9 +22,9 @@
 
 
 # [X-Ui](https://github.com/MHSanaei/3x-ui) To [Marzban](https://github.com/Gozargah/Marzban)
- Migrate Script
 
- | Simply Transfer Your Users From X-Ui to Marzban
+
+ کاربران خود را به سادگی از X-Ui به مرزبان منتقل کنید
 
 ## Table of Contents
 - [About](#about)
@@ -32,7 +32,10 @@
 - [Linux](#Linux)
 - [Windows](#windows)
 
-Before running the script, ensure you update the following variables with your specific information in config.py:
+قبل از اجرای اسکریپت، اطلاعات پنل های خود را در فایل config.py به‌روزرسانی کنید:
+
+#راهنمایی : فایل را در یک نرم افزار کد ادیتور باز کنید و مشخصات را به مشخصات پنل های خودتون تغییر داده و ذخیره کنید .
+
 ```python
 # Define Variables for Both Panels
 
